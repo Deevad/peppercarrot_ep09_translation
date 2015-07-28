@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P01.svg">
@@ -224,9 +224,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="946.36383"
-     inkscape:cy="-120.01735"
+     inkscape:zoom="0.30245748"
+     inkscape:cx="1273.1665"
+     inkscape:cy="1449.7132"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -237,7 +237,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep09_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        y="0"
        x="0"
@@ -256,21 +256,21 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(-47.612125,-118.03741)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(-60.112124,-175.53741)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
-           width="406.36182"
-           height="174.27658"
+           width="581.36182"
+           height="166.77658"
            x="180.92751"
            y="248.28046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara3433">The day after</flowPara><flowPara
-         style="font-size:48px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="flowPara3437">the party* ...</flowPara></flowRoot>    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 234.52565,2051.7007 c -7.50324,-100.1139 52.23585,-115.7436 91.7013,-136.02 42.92135,-22.052 388.28886,-9.9903 445.11648,27.9233 56.1684,37.4738 91.88936,164.2779 -29.11325,208.1156 -121.00271,43.8376 -347.41008,29.038 -381.13117,19.331 -31.86858,-9.1738 -115.14218,-40.5723 -126.57336,-119.3499 z"
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="flowPara3437">        the party* ...</flowPara></flowRoot>    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 211.56266,2065.4425 c -7.93443,-109.4722 55.23772,-126.5629 96.97116,-148.7347 45.38794,-24.1133 410.60292,-10.9241 470.69628,30.5335 59.39627,40.9767 97.17004,179.634 -30.78632,227.5695 -127.95645,47.9353 -367.37492,31.7523 -403.03388,21.1379 -33.69999,-10.0313 -121.75914,-44.3648 -133.84724,-130.5062 z"
        id="path3659"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -352,5 +352,5 @@
            x="1184.4999"
            y="1798.1251" /></flowRegion><flowPara
          id="flowPara3431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Lavi;-inkscape-font-specification:Lavi">* See Episode 8 : Pepper's Birthday Party</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Lavi;-inkscape-font-specification:Lavi;font-size:37.5px;fill:#7f7f7f;fill-opacity:1">* See Episode 8 : Pepper's Birthday Party</flowPara></flowRoot>  </g>
 </svg>
