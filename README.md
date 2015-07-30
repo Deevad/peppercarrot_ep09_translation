@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 09 : (temp EN) The Remedy 
+# Episode 09 : (temp EN) The Remedy
 # WORK-IN-PROGRESS
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -17,6 +17,7 @@ License
 
 * English    : Alex Gryson
 * French     : David Revoy
+* German     : Helmar Suschka & Alexandra Jordan
 * Russian    : Denis "uncle Night" Prisukhin
 
 
@@ -34,4 +35,3 @@ License
 - Graphics : Do not edit or propose a commit for the artwork in these repositories ( gfx_ PNG files ). Artwork here are low-resolution proxy files only. The real hi-res layered artwork, kra files, are [available here](http://www.peppercarrot.com/en/static6/sources) and are too heavy to be shared on Github. Do a modification, host them, then send me the link to them.
 
 - Fonts : as a common resources, fonts are hosted on their own Github repository [here  github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts). All informations about font authors, licenses and links are managed on the README of this external repository. You can download the pack directly here : [github.com/Deevad/peppercarrot_fonts/archive/master.zip](https://github.com/Deevad/peppercarrot_fonts/archive/master.zip)
-
