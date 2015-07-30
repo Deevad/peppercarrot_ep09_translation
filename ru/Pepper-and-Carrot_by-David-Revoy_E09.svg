@@ -135,15 +135,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-width="1600"
+     inkscape:window-height="873"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
-     inkscape:cx="548.96582"
+     inkscape:cx="394.61789"
      inkscape:cy="239.81512"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="126"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -152,13 +152,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/nightmare/Projects/peppercarrot_ep09_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
+     sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep09_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.71177969px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Эпизод 9 : Лекарство</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.71177673px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Эпизод 9 : Снадобье</flowPara></flowRoot>  </g>
 </svg>
