@@ -18,6 +18,7 @@ License
 * English    : Alex Gryson
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
+* Italian    : Carlo Gandolfi
 * Russian    : Denis "uncle Night" Prisukhin
 
 
