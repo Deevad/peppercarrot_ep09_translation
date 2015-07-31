@@ -19,6 +19,7 @@ License
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
 * Italian    : Carlo Gandolfi
+* Japanese   : guruguru
 * Russian    : Denis "uncle Night" Prisukhin
 * Dutch      : Willem Sonke
 
