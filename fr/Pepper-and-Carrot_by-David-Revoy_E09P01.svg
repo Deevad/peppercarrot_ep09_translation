@@ -225,8 +225,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2630065"
-     inkscape:cx="1146.8475"
-     inkscape:cy="1716.5159"
+     inkscape:cx="624.04673"
+     inkscape:cy="1237.4403"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -239,11 +239,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -318,7 +318,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4455-8">mais pourquoi ?</flowPara></flowRoot>    <path
+         id="flowPara4455-8">Mais pourquoi ?</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 281.17336,3149.5017 5.68848,-1.219 -4.0632,-5.2821 23.56655,-71.106 7.31376,1.219 -0.40632,-5.2822 9.75168,1.6253 4.06319,3.6569 7.72008,-6.9075 18.2844,-1.2189 38.60039,-24.3792 8.93903,-11.377 23.16024,-5.2821 7.31375,0.4063 -0.81264,-6.0948 14.62752,0.8126 25.19183,5.2822 54.44687,10.158 16.25279,1.6253 21.53496,0.4063 -2.0316,5.2821 21.12863,0.8127 0,-6.0948 21.94127,11.3769 9.75168,6.0948 47.13311,19.5034 -2.43792,3.2505 6.0948,12.1896 -6.0948,8.5328 7.31375,21.1286 2.43792,27.6297 -1.62528,10.158 -2.84423,-6.0948 -10.158,7.7201 -5.28216,16.2528 -8.1264,2.8443 -2.43792,-3.2506 -23.16023,12.5959 -40.22567,12.5959 -12.59591,2.0316 1.62527,-2.0316 -14.22119,3.6569 -30.88031,3.2506 -18.69072,-3.2506 c 0,0 -13.00223,0.8126 -14.62751,0.8126 -1.62528,0 -59.3227,-4.0632 -59.3227,-4.0632 l -31.69296,-0.8126 -23.16023,-3.2505 -21.94127,-4.8759 -35.34983,-16.2528 -21.53496,-13.8149 z"
        id="path4499"

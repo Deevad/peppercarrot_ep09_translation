@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30245747"
-     inkscape:cx="595.55785"
+     inkscape:cx="101.27348"
      inkscape:cy="1681.2872"
      inkscape:window-x="1920"
      inkscape:window-y="0"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -152,7 +152,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3030-8">... c'est quand même dommage qu'on ai pas pu empêcher les effets secondaires de </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4190">la potion</flowPara></flowRoot>    <flowRoot
+         id="flowPara4190">la potion.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -165,7 +165,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4200">T'inquiète pas ; la perte des poils et des plumes ne sera que temporaire, ça repoussera vite</flowPara></flowRoot>    <flowRoot
+         id="flowPara4200">T'inquiète pas ; la perte des poils et des plumes ne sera que temporaire, ça repoussera vite.</flowPara></flowRoot>    <flowRoot
        transform="matrix(1.1009585,0,-0.26823648,1.9713509,735.95253,2764.8535)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"

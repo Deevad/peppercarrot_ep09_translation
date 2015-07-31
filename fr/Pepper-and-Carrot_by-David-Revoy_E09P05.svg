@@ -153,8 +153,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="907.98263"
-     inkscape:cy="2383.5512"
+     inkscape:cx="1168.1701"
+     inkscape:cy="1207.6762"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -167,11 +167,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -300,7 +300,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4218">Au laboratoire, ça </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4222">peut-être mortel !</flowPara></flowRoot>    <path
+         id="flowPara4222">peut être mortel !</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 949.6469,2848.2429 c 2.8688,-14.401 23.13493,-79.1758 126.1416,9.6387 -77.75868,-88.9784 -61.6845,-91.5724 -34.2273,-90.1023 -11.9775,-10.2271 -15.7176,-35.0817 8.1745,-45.218 -11.8295,-9.7431 -11.015,-22.681 1.0813,-38.4698 -26.3175,7.4939 -35.7232,2.8436 -2.8695,-32.1531 -30.1379,19.8653 -58.91057,37.5475 -44.6629,-13.5538 -11.37398,6.9417 -20.13709,47.4025 -57.9933,-26.685 -2.73615,34.0852 -13.87535,59.6144 -72.36388,33.0327 5.51718,22.7622 2.93838,42.5313 -37.21629,34.2441 8.37928,20.5674 -17.23974,40.6323 -29.73253,43.9815 34.47857,5.4882 42.90967,17.9599 17.42851,38.5935 71.54236,3.3292 30.69685,23.8053 30.13018,37.7052 44.52684,-12.7208 40.00348,13.246 44.9854,32.5075 41.09516,-27.8984 34.99846,-1.2965 51.12421,16.4788 z"
        id="path3549-3"

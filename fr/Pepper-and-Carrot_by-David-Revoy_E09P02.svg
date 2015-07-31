@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="927.7951"
-     inkscape:cy="1321.1888"
+     inkscape:cx="1202.3576"
+     inkscape:cy="1073.9388"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -203,7 +203,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4412-8">J'ai préparé du thé pour qu'on reprenne toutes des forces après cette petite mésaventure</flowPara></flowRoot>    <flowRoot
+         id="flowPara4412-8">J'ai préparé du thé pour qu'on reprenne toutes des forces après cette petite mésaventure.</flowPara></flowRoot>    <flowRoot
        transform="matrix(1.0893046,0,0.05787519,1.1966756,-208.64545,-108.66519)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.97814989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
