@@ -17,6 +17,7 @@ License
 
 * English    : Alex Gryson
 * French     : David Revoy
+* Dutch      : Willem Sonke
 
 
 ## Artwork :
