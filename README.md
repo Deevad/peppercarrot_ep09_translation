@@ -22,6 +22,7 @@ License
 * Japanese   : guruguru
 * Russian    : Denis "uncle Night" Prisukhin
 * Dutch      : Willem Sonke
+* Slovak     : talime
 
 
 ## Artwork :
