@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P02.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="479.2951"
-     inkscape:cy="631.18881"
+     inkscape:cx="1179.3576"
+     inkscape:cy="636.93881"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep09_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-07-31_ep09_The-Remedy/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -196,15 +196,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-3-7-8-5"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(489.31345,2384.631)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(489.31345,2369.631)"><flowRegion
          id="flowRegion2989-5-4-5-9-3-2-0-4"><rect
            id="rect2991-7-9-6-4-4-0-8-5"
            width="577.74487"
            height="312.3837"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4412-8">I've prepared tea</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"

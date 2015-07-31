@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P07.svg.2015_07_27_18_21_41.0.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P07.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30245747"
-     inkscape:cx="994.31039"
-     inkscape:cy="786.80262"
+     inkscape:cx="1349.7323"
+     inkscape:cy="2317.5964"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep09_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-07-31_ep09_The-Remedy/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -132,8 +132,8 @@
        id="path4188"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 686.51113,1631.509 c 10.80835,-81.3694 119.85572,-139.8689 399.21827,-121.688 149.6416,9.7383 319.6591,16.8595 305.564,136.0778 -14.0949,119.218 -258.583,113.6539 -309.1417,115.9291 -50.5589,2.2753 -313.20515,-12.9228 -358.17261,-53.9846 -28.1486,-25.7035 -38.92571,-51.1145 -37.46796,-76.3343 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 686.51113,1639.596 c 10.80835,-86.633 119.85572,-148.9166 399.21827,-129.5597 149.6416,10.3683 319.6591,17.9501 305.564,144.8804 -14.0949,126.9299 -258.583,121.0058 -309.1417,123.4282 -50.5589,2.4225 -313.20515,-13.7587 -358.17261,-57.4767 -28.1486,-27.3662 -38.92571,-54.421 -37.46796,-81.2722 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -157,15 +157,15 @@
          id="flowPara3497">the potion's side-effects...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1127.5909,1844.7128)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1127.5909,1830.7128)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-2"
            width="590.15173"
            height="262.98993"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4200">Don't worry;</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"

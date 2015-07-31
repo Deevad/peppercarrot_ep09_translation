@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29924759"
-     inkscape:cx="1108.7163"
+     inkscape:cx="609.12999"
      inkscape:cy="1001.0415"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       xlink:href="file:///home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-07-31_ep09_The-Remedy/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       width="2481.4438"
        height="3504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
