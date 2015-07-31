@@ -23,6 +23,8 @@ License
 * Russian    : Denis "uncle Night" Prisukhin
 * Dutch      : Willem Sonke
 * Slovak     : talime
+* Spanish    : TheFaico
+
 
 
 ## Artwork :
