@@ -15,6 +15,7 @@ License
 
 ## Translators and correctors :
 
+* Catalan    : Juan Jose Segura
 * English    : Alex Gryson
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
