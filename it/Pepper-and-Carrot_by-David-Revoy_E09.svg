@@ -15,7 +15,10 @@
    inkscape:version="0.48.5 r10040"
    width="1100"
    height="765"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09.svg"
+   inkscape:export-filename="/Users/gand/Documents/Pepper&amp;Carrot/Test 07/working folder/Pepper-and-Carrot_by-David-Revoy_E09.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,16 +138,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1408"
-     inkscape:window-height="855"
+     inkscape:window-width="1572"
+     inkscape:window-height="1007"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
      inkscape:cx="460.45088"
-     inkscape:cy="129.12598"
+     inkscape:cy="350.41333"
      inkscape:window-x="32"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
@@ -154,11 +157,11 @@
   <image
      sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep09_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +179,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episodio 9 : Il rimedio</flowPara></flowRoot>  </g>
+         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episodio 9 : L'antidoto</flowPara></flowRoot>  </g>
 </svg>
