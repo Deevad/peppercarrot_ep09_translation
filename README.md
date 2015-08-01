@@ -17,6 +17,7 @@ License
 
 * Catalan    : Juan Jose Segura
 * English    : Alex Gryson
+* Finnish	   : Kari Lehto
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
 * Italian    : Carlo Gandolfi
