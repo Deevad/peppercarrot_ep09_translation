@@ -20,6 +20,7 @@ License
 * Finnish	   : Kari Lehto
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
+* Indonesian : Reinaldo Calvin
 * Italian    : Carlo Gandolfi
 * Japanese   : guruguru
 * Russian    : Denis "uncle Night" Prisukhin
