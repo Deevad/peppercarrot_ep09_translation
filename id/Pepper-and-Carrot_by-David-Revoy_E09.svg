@@ -141,7 +141,7 @@
      showgrid="false"
      inkscape:zoom="0.90380222"
      inkscape:cx="548.96582"
-     inkscape:cy="217.64092"
+     inkscape:cy="261.89839"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -154,11 +154,11 @@
   <image
      sodipodi:absref="C:\Users\Cindy\Desktop\peppercarrot_ep09_translation-master\id\..\gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Episode 9 : Obat</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Episode 9 : Pengobatan</flowPara></flowRoot>  </g>
 </svg>

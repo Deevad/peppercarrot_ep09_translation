@@ -43,9 +43,9 @@
      inkscape:window-height="746"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.21386973"
-     inkscape:cx="352.59779"
-     inkscape:cy="1230.5165"
+     inkscape:zoom="0.42773946"
+     inkscape:cx="1401.5495"
+     inkscape:cy="1441.65"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\Users\Cindy\Desktop\peppercarrot_ep09_translation-master\id\..\gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -123,7 +123,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1210.8918,2163.1144 c 54.944,-93.0402 171.225,-100.1336 265.3427,-107.1335 109.9685,-3.2605 225.0547,-1.4894 328.0641,42.317 78.8685,44.2441 106.9732,172.8604 32.289,234.684 -73.9819,61.6261 -175.847,61.4843 -266.065,62.8362 -97.184,-3.8914 -195.676,-12.9387 -289.3722,-40.6401 -69.7939,-29.4907 -112.5044,-121.6483 -70.2586,-192.0636 z"
+       d="m 1211.2921,2163.1144 c 56.2545,-93.0402 175.3091,-100.1336 271.6718,-107.1335 112.5915,-3.2605 230.4228,-1.4894 335.8892,42.317 80.7498,44.2441 109.5248,172.8604 33.0592,234.684 -75.7465,61.6261 -180.0414,61.4843 -272.4113,62.8362 -99.5021,-3.8914 -200.3434,-12.9387 -296.2745,-40.6401 -71.4586,-29.4907 -115.1879,-121.6483 -71.9344,-192.0636 z"
        id="path3533"
        inkscape:connector-curvature="0" />
     <path
@@ -133,7 +133,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 686.51113,1639.596 c 10.80835,-86.633 119.85572,-148.9166 399.21827,-129.5597 149.6416,10.3683 319.6591,17.9501 305.564,144.8804 -14.0949,126.9299 -258.583,121.0058 -309.1417,123.4282 -50.5589,2.4225 -313.20515,-13.7587 -358.17261,-57.4767 -28.1486,-27.3662 -38.92571,-54.421 -37.46796,-81.2722 z"
+       d="m 686.51113,1646.7612 c 10.80835,-82.1667 119.85572,-141.2394 399.21827,-122.8804 149.6416,9.8338 319.6591,17.0247 305.564,137.4112 -14.0949,120.3861 -258.583,114.7675 -309.1417,117.065 -50.5589,2.2976 -313.20515,-13.0494 -358.17261,-54.5136 -28.1486,-25.9553 -38.92571,-51.6153 -37.46796,-77.0822 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -141,7 +141,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(606.44059,1313.5825)"><flowRegion
+       transform="translate(608.77846,1327.6098)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="678.92896"
@@ -154,7 +154,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1095.2132,1821.3613)"><flowRegion
+       transform="translate(1095.2132,1812.0098)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-2"
            width="654.62354"
@@ -165,7 +165,7 @@
          style="font-size:44.375px;text-align:center;text-anchor:middle"
          id="flowPara4200">Jangan khawatir;</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3501">Efeknya kan hanya bersifat sementara. Nanti bulu mereka pasti akan tumbuh kembali dengan cepat.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3501">Efeknya kan hanya sementara. Bulu mereka yang rontok pasti akan tumbuh lagi dalam waktu singkat, percayalah!</flowPara></flowRoot>    <flowRoot
        transform="matrix(1.1009585,0,-0.26823648,1.9713509,735.95253,2764.8535)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
@@ -309,5 +309,5 @@
            height="46.287498"
            x="1400.1969"
            y="317.42816" /></flowRegion><flowPara
-         id="flowPara3923"></flowPara></flowRoot>  </g>
+         id="flowPara3923" /></flowRoot>  </g>
 </svg>
