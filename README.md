@@ -20,6 +20,7 @@ License
 * Finnish	   : Kari Lehto
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
+* Hungarian  : Halász Gábor "Hali"
 * Indonesian : Reinaldo Calvin
 * Italian    : Carlo Gandolfi
 * Japanese   : guruguru
