@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="1202.3576"
-     inkscape:cy="1073.9388"
+     inkscape:cx="844.4201"
+     inkscape:cy="1450.5638"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-07-31_ep09_The-Remedy/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -87,7 +87,7 @@
        sodipodi:nodetypes="zssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 114.34931,1474.9762 c 8.46121,-73.2514 108.09638,-126.2753 366.4912,-110.9123 138.41022,8.2292 295.59314,14.0306 284.80434,121.3484 -10.78899,107.3176 -236.73329,103.1826 -283.39316,105.4097 -46.65992,2.2274 -289.55763,-10.5115 -331.8637,-47.297 -26.48263,-23.0266 -36.91328,-45.8519 -36.03868,-68.5488 z"
+       d="m 114.34931,1490.6154 c 8.46121,-83.3382 108.09638,-143.6636 366.4912,-126.1851 138.41022,9.3624 295.59314,15.9627 284.80434,138.0582 -10.78899,122.0954 -236.73329,117.391 -283.39316,119.9248 -46.65992,2.5341 -289.55763,-11.959 -331.8637,-53.8099 -26.48263,-26.1974 -36.91328,-52.1657 -36.03868,-77.988 z"
        id="path4546-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -116,7 +116,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 170.67551,1650.8554 c -2.21908,-109.446 85.24908,-126.3281 330.1611,-118.2726 131.18809,4.315 280.05297,5.851 273.37232,107.9964 -6.68082,102.1452 -217.83575,97.7759 -262.02132,98.5204 -47.91574,0.8073 -216.40725,-11.3635 -255.06136,-24.0838 -32.04509,-10.5454 -86.53267,-42.5929 -86.45074,-64.1604 z"
+       d="m 150.55051,1668.1054 c -2.21908,-109.446 85.24908,-126.3281 330.1611,-118.2726 131.18809,4.315 280.05297,5.851 273.37232,107.9964 -6.68082,102.1452 -217.83575,97.7759 -262.02132,98.5204 -47.91574,0.8073 -216.40725,-11.3635 -255.06136,-24.0838 -32.04509,-10.5454 -86.53267,-42.5929 -86.45074,-64.1604 z"
        id="path4546-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -149,7 +149,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-3-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(121.07446,1462.6242)"><flowRegion
+       transform="translate(126.82446,1474.1242)"><flowRegion
          id="flowRegion2989-5-4-5-9-3-2"><rect
            id="rect2991-7-9-6-4-4-0"
            width="577.74487"
@@ -160,11 +160,11 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4255-9">Un peu pluvieuse</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4292">je crois, hein ?..</flowPara></flowRoot>    <flowRoot
+         id="flowPara4292">je crois, hein ?...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-3-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(66.444963,1312.7913)"><flowRegion
+       transform="translate(49.194963,1330.0413)"><flowRegion
          id="flowRegion2989-5-4-5-9-3-0"><rect
            id="rect2991-7-9-6-4-4-2"
            width="577.74487"
@@ -173,7 +173,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4298-3">Et sinon, comment s'est passé la nuit ?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4298-3">Et sinon, comment s'est passée la nuit ?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-3-7-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -229,7 +229,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4298-3-5">... mais je suis si contente que soyez toutes venues !</flowPara></flowRoot>    <flowRoot
+         id="flowPara4298-3-5">... mais je suis si contente que vous soyez toutes venues ! ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4519"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
