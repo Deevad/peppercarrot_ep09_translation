@@ -16,22 +16,36 @@ License
 ## Translators and correctors :
 
 * Catalan    : Juan Jose Segura
-* Chinese    : Ran Zhuang
-* English    : Alex Gryson
-* Esperanto  : libre fan
-* Finnish    : Kari Lehto
-* French     : David Revoy
-* German     : Helmar Suschka & Alexandra Jordan
-* Hungarian  : Halász Gábor "Hali"
-* Indonesian : Reinaldo Calvin
-* Italian    : Carlo Gandolfi
-* Japanese   : guruguru
-* Russian    : Denis "uncle Night" Prisukhin
-* Dutch      : Willem Sonke
-* Slovak     : talime
-* Spanish    : TheFaico
-* Vietnamese : Binh Pham
 
+* Chinese    : Ran Zhuang
+
+* English    : Alex Gryson
+
+* Esperanto  : libre fan
+
+* Finnish    : Kari Lehto
+
+* French     : David Revoy
+
+* German     : Helmar Suschka & Alexandra Jordan
+
+* Hungarian  : Halász Gábor "Hali"
+
+* Indonesian : Reinaldo Calvin
+
+* Italian    : Carlo Gandolfi
+
+* Japanese   : guruguru
+
+* Russian    : Denis "uncle Night" Prisukhin
+
+* Dutch      : Willem Sonke
+
+* Slovak     : talime
+
+* Spanish    : TheFaico
+
+* Vietnamese : Binh Pham
 
 
 ## Artwork :
