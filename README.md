@@ -18,6 +18,7 @@ License
 * Catalan    : Juan Jose Segura
 * Chinese    : Ran Zhuang
 * English    : Alex Gryson
+* Esperanto  : libre fan
 * Finnish    : Kari Lehto
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
