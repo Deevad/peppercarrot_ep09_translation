@@ -16,8 +16,9 @@ License
 ## Translators and correctors :
 
 * Catalan    : Juan Jose Segura
+* Chinese    : Ran Zhuang
 * English    : Alex Gryson
-* Finnish	   : Kari Lehto
+* Finnish    : Kari Lehto
 * French     : David Revoy
 * German     : Helmar Suschka & Alexandra Jordan
 * Hungarian  : Halász Gábor "Hali"
