@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P08.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P08 copia.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -43,12 +43,12 @@
      inkscape:window-height="855"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34219156"
-     inkscape:cx="1307.4587"
-     inkscape:cy="1365.0391"
-     inkscape:window-x="67"
-     inkscape:window-y="46"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.29924759"
+     inkscape:cx="1544.81"
+     inkscape:cy="2070.3901"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
      showguides="true"
@@ -66,11 +66,12 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep09_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
        y="-1023.3771"
        x="0.54707891"
        id="image4223"
-       xlink:href="file:///home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="3504.5391"
        width="2481.4438" />
@@ -102,7 +103,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(1.1196913,0,0,1.1666933,-297.93398,-1109.4595)"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
@@ -111,16 +112,16 @@
            x="135.21135"
            y="219.33444"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="flowPara3497">Pepper&amp;Carrot è completamente gratuito, open-source</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3053">e sostenuto grazie alle gentili donazioni dei lettori.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3056">Per questo episodio, grazie ai 406 donatori :</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara3104">e sostenuto grazie alle gentili donazioni dei lettori.</flowPara><flowPara
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara3106">Per questo episodio, grazie ai 406 donatori :</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#a72f14;fill-opacity:1;stroke:none"
-       transform="matrix(1.2234224,0,0,1.2506407,-289.18878,1729.9526)"><flowRegion
+       transform="matrix(1.2234224,0,0,1.2506407,-289.18878,1753.3446)"><flowRegion
          id="flowRegion3029-9-3"><rect
            id="rect3031-9-1"
            width="2230.314"
@@ -134,7 +135,7 @@
        xml:space="preserve"
        id="flowRoot3027-8-8-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(1.0085133,0,0,1.0406001,-20.843842,1731.3474)"><flowRegion
+       transform="matrix(1.0085133,0,0,1.0406001,-24.185556,1744.7143)"><flowRegion
          id="flowRegion3029-9-3-5"><rect
            id="rect3031-9-1-6"
            width="2230.314"
@@ -143,7 +144,7 @@
            y="219.33444"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3058">Anche tu puoi contribuire al prossimo episodio di Pepper&amp;Carrot :</flowPara></flowRoot>    <flowRoot
+         id="flowPara3055">Anche tu puoi contribuire al prossimo episodio di Pepper&amp;Carrot :</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -171,13 +172,13 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3033-3-0-2-4-3-2" /><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3278-7">Licenza : Creative Commons Attribution 4.0</flowPara><flowPara
+         id="flowPara4908">Licenza : Creative Commons Attribution 4.0</flowPara><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3233-6-14-6">File sorgenti : disponibili su www.peppercarrot.com</flowPara><flowPara
+         id="flowPara3117">File sorgenti : disponibili su www.peppercarrot.com</flowPara><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara4904">Software : questo episodio è stato disegnato al 100% con software libero</flowPara><flowPara
+         id="flowPara3119">Software : questo episodio è stato disegnato al 100% con software libero</flowPara><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara4908">Krita 2.9.6 , Inkscape 0.91 on Linux Mint 17 </flowPara></flowRoot>    <flowRoot
+         id="flowPara3121">Krita 2.9.6 , Inkscape 0.91 on Linux Mint 17 </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4307"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
