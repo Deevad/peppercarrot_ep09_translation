@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29924759"
-     inkscape:cx="1387.5678"
+     inkscape:cx="807.78034"
      inkscape:cy="1095.8663"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       xlink:href="file:///home/deevad/Production/Webcomics/New/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-07-31_ep09_The-Remedy/lang/ca/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P08.png"
+       width="2481.4438"
        height="3504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -183,7 +183,7 @@
          id="flowPara4908">Krita 2.9.6 , Inkscape 0.91 on Linux Mint 17 </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4307"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:RoboKoz;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-1024)"><flowRegion
          id="flowRegion4309"><rect
            id="rect4311"
@@ -191,7 +191,7 @@
            height="277.55969"
            x="-836.48126"
            y="2419.3765"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:RoboKoz;-inkscape-font-specification:RoboKoz" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:RoboKoz" /></flowRegion><flowPara
          id="flowPara4313" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
