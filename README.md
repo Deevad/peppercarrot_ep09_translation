@@ -1,6 +1,6 @@
 # Pepper&Carrot translation project
-# Episode 09: (temp EN) The Remedy
-# WORK-IN-PROGRESS
+# Episode 09: The Remedy
+
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
