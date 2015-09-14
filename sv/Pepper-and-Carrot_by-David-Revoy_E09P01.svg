@@ -226,7 +226,7 @@
      showgrid="false"
      inkscape:zoom="0.30245748"
      inkscape:cx="1273.1665"
-     inkscape:cy="1449.7132"
+     inkscape:cy="2507.7132"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -239,11 +239,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep09_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -266,9 +266,9 @@
            y="248.28046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara3433">The day after</flowPara><flowPara
+         id="flowPara3433">Dagen efter</flowPara><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara3437">        the party* ...</flowPara></flowRoot>    <path
+         id="flowPara3437">        festen* ...</flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 211.56266,2065.4425 c -7.93443,-109.4722 55.23772,-126.5629 96.97116,-148.7347 45.38794,-24.1133 410.60292,-10.9241 470.69628,30.5335 59.39627,40.9767 97.17004,179.634 -30.78632,227.5695 -127.95645,47.9353 -367.37492,31.7523 -403.03388,21.1379 -33.69999,-10.0313 -121.75914,-44.3648 -133.84724,-130.5062 z"
        id="path3659"
@@ -343,7 +343,7 @@
          id="flowPara3030-8-7">Oh nej!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3425"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(0,8)"><flowRegion
          id="flowRegion3427"><rect
            id="rect3429"
@@ -352,5 +352,5 @@
            x="1184.4999"
            y="1798.1251" /></flowRegion><flowPara
          id="flowPara3431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Lavi;-inkscape-font-specification:Lavi;font-size:37.5px;fill:#7f7f7f;fill-opacity:1">* See Episode 8 : Pepper's Birthday Party</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end;fill:#7f7f7f;fill-opacity:1">* Se Episode 8 : Peppers Födelsedagsfest</flowPara></flowRoot>  </g>
 </svg>
