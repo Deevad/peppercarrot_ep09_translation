@@ -24,7 +24,7 @@ License
 
 * English: Alex Gryson
 
-* Esperanto: libre fan
+* Esperanto: libre fan (librefan.eu.org), korektoj: kaoseto
 
 * Finnish: Kari Lehto
 
