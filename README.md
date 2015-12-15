@@ -16,6 +16,8 @@ License
 
 * Bengali: Hulo Biral the Tomcat
 
+* Breton: Stefan Carpentier
+
 * Catalan: Juan Jose Segura
 
 * Chinese: Ran Zhuang
