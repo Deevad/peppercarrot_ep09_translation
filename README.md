@@ -44,6 +44,8 @@ License
 
 * Polish: Sölve Svartskogen
 
+* Portuguese: Alexandre Esteves Almeida
+
 * Russian: Denis "uncle Night" Prisukhin
 
 * Slovak: talime
