@@ -18,7 +18,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jose Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -26,7 +26,7 @@ License
 
 * English: Alex Gryson
 
-* Esperanto: libre fan (librefan.eu.org), korektoj: kaoseto
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * Finnish: Kari Lehto
 
