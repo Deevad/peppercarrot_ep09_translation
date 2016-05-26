@@ -42,6 +42,8 @@ License
 
 * Japanese: guruguru
 
+* Lojban: Gleki Arxokuna
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
