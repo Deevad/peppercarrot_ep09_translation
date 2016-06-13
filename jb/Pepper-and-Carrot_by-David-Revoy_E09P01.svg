@@ -220,15 +220,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30245748"
      inkscape:cx="1333.1435"
-     inkscape:cy="631.7724"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cy="1557.5224"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -237,13 +237,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep09_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep09_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -257,18 +257,16 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(-60.112124,-165.53741)"><flowRegion
+       transform="translate(-70.030874,-165.53741)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
-           width="581.36182"
-           height="166.77658"
-           x="180.92751"
+           width="584.66809"
+           height="170.08282"
+           x="151.17125"
            y="248.28046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.00000381px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara3629">se lidne lalo detri be lo</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.00000381px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara3633">nu jbena fa la peper</flowPara></flowRoot>    <path
+         id="flowPara3633">se lidne fa tu'a lo detri be lo nu jbena fa la peper</flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 211.56266,2065.4425 c -7.93443,-109.4722 55.23772,-126.5629 96.97116,-148.7347 45.38794,-24.1133 410.60292,-10.9241 470.69628,30.5335 59.39627,40.9767 97.17004,179.634 -30.78632,227.5695 -127.95645,47.9353 -367.37492,31.7523 -403.03388,21.1379 -33.69999,-10.0313 -121.75914,-44.3648 -133.84724,-130.5062 z"
        id="path3659"
