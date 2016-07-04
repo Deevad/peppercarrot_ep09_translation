@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P05.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P05.svg"
+   inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 09/Pepper-and-Carrot_by-David-Revoy_E09P05.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,7 +157,7 @@
      showgrid="false"
      inkscape:zoom="0.3478261"
      inkscape:cx="1168.1701"
-     inkscape:cy="418.67056"
+     inkscape:cy="23.719647"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -165,13 +168,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep09_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P05.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep09_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"

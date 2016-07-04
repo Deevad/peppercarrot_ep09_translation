@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.34782609"
      inkscape:cx="844.4201"
-     inkscape:cy="495.44094"
+     inkscape:cy="1022.6562"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep09_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep09_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -130,7 +130,10 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(318.33762,6.6910875)"><flowRegion
+       transform="translate(318.33762,6.6910875)"
+       inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 09/Pepper-and-Carrot_by-David-Revoy_E09P02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion2989-5-4-5-9"><rect
            id="rect2991-7-9-6-4"
            width="577.74487"
@@ -141,9 +144,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4148-8">Disoñjet krenn em eus</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4177">diweredekaat</flowPara><flowPara
+         id="flowPara4177">distignañ</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4181">ma &quot;reizhad diwall&quot;...</flowPara></flowRoot>    <flowRoot
+         id="flowPara4181">ma &quot;antelloù diwall&quot;...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-3-7"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
