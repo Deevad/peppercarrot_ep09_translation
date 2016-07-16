@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.26497506"
      inkscape:cx="1062.9863"
      inkscape:cy="277.58993"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="H:\peppercarrot_ep09_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E09P00.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep09_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P00.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="663"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,7 +82,7 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1">i 9 moi pagbu fa lu lo farmako li'u</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1">i 9 moi pagbu fa la'e lu lo farmako li'u</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="167.86595"
