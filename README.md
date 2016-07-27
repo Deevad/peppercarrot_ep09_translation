@@ -34,6 +34,8 @@ License
 
 * German: Helmar Suschka & Alexandra Jordan
 
+* Greek: George Karettas
+
 * Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Reinaldo Calvin
