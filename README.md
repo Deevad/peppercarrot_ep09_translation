@@ -44,6 +44,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Lojban: Gleki Arxokuna
 
 * Polish: Sölve Svartskogen
