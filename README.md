@@ -46,6 +46,8 @@ License
 
 * Lojban: Gleki Arxokuna
 
+* Norwegian: Thomas Nordstrøm
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
