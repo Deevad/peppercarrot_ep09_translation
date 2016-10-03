@@ -46,6 +46,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Lojban: Gleki Arxokuna
 
 * Norwegian: Thomas Nordstrøm
