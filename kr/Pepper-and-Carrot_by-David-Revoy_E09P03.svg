@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
+     inkscape:zoom="0.36"
      inkscape:cx="1334.0664"
-     inkscape:cy="714.95765"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cy="884.7659"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep09_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P03.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep09_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -74,7 +74,7 @@
      inkscape:label="txt">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1028.3451,2648.381 c 0,0 4.6774,-19.9846 26.8953,-24.4257 22.2181,-4.4409 44.4359,12.2129 44.4359,12.2129 0,0 7.0161,-21.0949 26.8953,-22.2051 19.8792,-1.1105 40.9278,15.5435 40.9278,15.5435 0,0 4.6775,-14.4333 17.5405,-14.4333 12.8629,0 26.8953,12.2129 26.8953,12.2129 0,0 18.7098,-11.1028 33.9115,-11.1028 15.2018,0 40.9277,11.1028 40.9277,11.1028 0,0 10.5243,-7.7718 22.218,-7.7718 11.6936,0 29.2341,13.3231 29.2341,13.3231 0,0 14.0323,-18.8744 29.2341,-17.7642 15.2017,1.1101 35.0808,15.5435 35.0808,15.5435 0,0 18.7098,-11.1024 29.2342,-8.882 10.5242,2.2205 31.5728,18.8745 31.5728,18.8745 0,0 1.1692,-5.5514 12.863,-2.2206 11.6936,3.3308 19.8791,12.2129 19.8791,12.2129 0,0 21.0486,-5.5513 37.4196,11.1026 16.3711,16.654 14.0325,36.6387 14.0325,36.6387 0,0 8.1855,14.4333 8.1855,25.5358 0,11.1028 -11.6937,21.0951 -11.6937,21.0951 0,0 17.5405,24.4257 8.1856,45.5207 -9.3549,21.0949 -23.3873,19.9847 -23.3873,19.9847 0,0 2.3387,11.1026 -2.3387,14.4334 -4.6774,3.3308 -19.8792,4.4411 -19.8792,4.4411 0,0 3.5081,12.2128 -17.5405,27.7564 -21.0484,15.5438 -68.9924,18.8745 -68.9924,18.8745 0,0 -15.2017,17.7641 -35.081,24.4257 -19.8791,6.6616 -47.9437,1.1104 -47.9437,1.1104 0,0 -7.0164,18.8743 -30.4035,21.0949 -23.3873,2.2205 -60.807,-12.2129 -60.807,-12.2129 0,0 -26.8954,23.3155 -51.452,17.7642 -24.5566,-5.5513 -33.9115,-17.7642 -33.9115,-17.7642 0,0 -21.0485,6.6616 -43.2664,-2.2204 -22.218,-8.8822 -29.2342,-22.2053 -29.2342,-22.2053 0,0 -26.8954,4.441 -45.6051,0 -18.7099,-4.441 -36.2503,-26.6463 -36.2503,-26.6463 0,0 -29.23417,-3.3307 -46.77464,-22.2052 -17.54037,-18.8746 -14.03234,-43.3002 -14.03234,-43.3002 0,0 -22.21789,-21.095 -19.87916,-35.5284 2.33872,-14.4333 19.87916,-32.1975 19.87916,-32.1975 0,0 -10.52425,-13.3232 -7.01616,-22.2053 3.50813,-8.882 17.54047,-13.3231 17.54047,-13.3231 0,0 -17.54047,-26.6463 14.03233,-43.3002 31.57284,-16.654 58.46824,1.1102 58.46824,1.1102 z"
+       d="m 1039.562,2648.381 c 0,0 4.4301,-19.9846 25.4733,-24.4257 21.0434,-4.4409 42.0865,12.2129 42.0865,12.2129 0,0 6.6451,-21.0949 25.4733,-22.2051 18.8281,-1.1105 38.7639,15.5435 38.7639,15.5435 0,0 4.4302,-14.4333 16.6131,-14.4333 12.1828,0 25.4733,12.2129 25.4733,12.2129 0,0 17.7206,-11.1028 32.1185,-11.1028 14.3981,0 38.7638,11.1028 38.7638,11.1028 0,0 9.9679,-7.7718 21.0433,-7.7718 11.0754,0 27.6885,13.3231 27.6885,13.3231 0,0 13.2904,-18.8744 27.6884,-17.7642 14.398,1.1101 33.226,15.5435 33.226,15.5435 0,0 17.7206,-11.1024 27.6886,-8.882 9.9678,2.2205 29.9035,18.8745 29.9035,18.8745 0,0 1.1074,-5.5514 12.1829,-2.2206 11.0753,3.3308 18.8281,12.2129 18.8281,12.2129 0,0 19.9357,-5.5513 35.4411,11.1026 15.5056,16.654 13.2906,36.6387 13.2906,36.6387 0,0 7.7527,14.4333 7.7527,25.5358 0,11.1028 -11.0754,21.0951 -11.0754,21.0951 0,0 16.6131,24.4257 7.7528,45.5207 -8.8603,21.0949 -22.1508,19.9847 -22.1508,19.9847 0,0 2.2151,11.1026 -2.215,14.4334 -4.4301,3.3308 -18.8282,4.4411 -18.8282,4.4411 0,0 3.3226,12.2128 -16.6131,27.7564 -19.9355,15.5438 -65.3447,18.8745 -65.3447,18.8745 0,0 -14.3979,17.7641 -33.2262,24.4257 -18.828,6.6616 -45.4088,1.1104 -45.4088,1.1104 0,0 -6.6454,18.8743 -28.796,21.0949 -22.1508,2.2205 -57.5921,-12.2129 -57.5921,-12.2129 0,0 -25.4734,23.3155 -48.7316,17.7642 -23.2583,-5.5513 -32.1186,-17.7642 -32.1186,-17.7642 0,0 -19.9356,6.6616 -40.9788,-2.2204 -21.0433,-8.8822 -27.6886,-22.2053 -27.6886,-22.2053 0,0 -25.4734,4.441 -43.1939,0 -17.7206,-4.441 -34.3336,-26.6463 -34.3336,-26.6463 0,0 -27.68856,-3.3307 -44.30164,-22.2052 -16.61299,-18.8746 -13.29043,-43.3002 -13.29043,-43.3002 0,0 -21.0432,-21.095 -18.82812,-35.5284 2.21507,-14.4333 18.82812,-32.1975 18.82812,-32.1975 0,0 -9.96782,-13.3232 -6.64521,-22.2053 3.32265,-8.882 16.61308,-13.3231 16.61308,-13.3231 0,0 -16.61308,-26.6463 13.29042,-43.3002 29.90358,-16.654 55.37698,1.1102 55.37698,1.1102 z"
        id="path4136"
        inkscape:connector-curvature="0" />
     <path
@@ -90,19 +90,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(835.41194,2387.9931)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.4634915,0,0,1.4634915,642.43525,2237.6268)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="604.90173"
            height="240.73993"
            x="115.55251"
            y="285.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3483">난 바보 인가봐..</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3350">다들 나를 싫어하겟지?</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3352">어떻하면 좋지?</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3352">이 바보!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3350">이젠 늦었어,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3353">다들 날 싫어할거야...</flowPara></flowRoot>  </g>
 </svg>

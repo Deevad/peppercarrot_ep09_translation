@@ -135,16 +135,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
-     inkscape:cx="406.70098"
-     inkscape:cy="306.15587"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="554.23313"
+     inkscape:cy="394.67081"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
@@ -152,13 +152,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/sandbox/peppercarrot_ep09_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
+     sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep09_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -167,7 +167,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1)"
-       transform="matrix(0.69723552,0,0,0.69723552,-804.10682,242.3529)"><flowRegion
+       transform="matrix(0.89019279,0,0,0.89019279,-1178.9612,111.03378)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="2405.8"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 9화: 치료</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 9화 : 치료</flowPara></flowRoot>  </g>
 </svg>
