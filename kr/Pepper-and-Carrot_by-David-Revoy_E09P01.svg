@@ -226,7 +226,7 @@
      showgrid="false"
      inkscape:zoom="0.30245748"
      inkscape:cx="1147.529"
-     inkscape:cy="1317.4632"
+     inkscape:cy="259.46325"
      inkscape:window-x="960"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
@@ -239,11 +239,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep09_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -318,7 +318,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara4455-8">뭐지?</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 400.19835,3149.5017 3.93628,-1.219 -2.81163,-5.2821 16.30741,-71.106 5.06092,1.219 -0.28117,-5.2822 6.7479,1.6253 2.81161,3.6569 5.34209,-6.9075 12.6523,-1.2189 26.7104,-24.3792 6.18557,-11.377 16.02624,-5.2821 5.06092,0.4063 -0.56233,-6.0948 10.12184,0.8126 17.43205,5.2822 37.67574,10.158 11.24648,1.6253 14.9016,0.4063 -1.40581,5.2821 14.62043,0.8127 0,-6.0948 15.18275,11.3769 6.74789,6.0948 32.61482,19.5034 -1.68698,3.2505 4.21744,12.1896 -4.21744,8.5328 5.06092,21.1286 1.68697,27.6297 -1.12465,10.158 -1.96813,-6.0948 -7.02905,7.7201 -3.65511,16.2528 -5.62325,2.8443 -1.68697,-3.2506 -16.02624,12.5959 -27.83506,12.5959 -8.71602,2.0316 1.12464,-2.0316 -9.84067,3.6569 -21.36832,3.2506 -12.93346,-3.2506 c 0,0 -8.99719,0.8126 -10.12184,0.8126 -1.12465,0 -41.04967,-4.0632 -41.04967,-4.0632 l -21.93066,-0.8126 -16.02624,-3.2505 -15.18275,-4.8759 -24.46111,-16.2528 -14.9016,-13.8149 z"
+       d="m 429.9546,3149.5017 3.49823,-1.219 -2.49874,-5.2821 14.49262,-71.106 4.49771,1.219 -0.24988,-5.2822 5.99696,1.6253 2.49871,3.6569 4.74759,-6.9075 11.24428,-1.2189 23.7379,-24.3792 5.49721,-11.377 14.24274,-5.2821 4.49771,0.4063 -0.49975,-6.0948 8.99542,0.8126 15.4921,5.2822 33.48296,10.158 9.9949,1.6253 13.24326,0.4063 -1.24936,5.2821 12.99338,0.8127 0,-6.0948 13.49312,11.3769 5.99694,6.0948 28.98525,19.5034 -1.49924,3.2505 3.74809,12.1896 -3.74809,8.5328 4.49771,21.1286 1.49923,27.6297 -0.99949,10.158 -1.74911,-6.0948 -6.24681,7.7201 -3.24835,16.2528 -4.99746,2.8443 -1.49923,-3.2506 -14.24275,12.5959 -24.7374,12.5959 -7.74605,2.0316 0.99948,-2.0316 -8.74554,3.6569 -18.99032,3.2506 -11.49415,-3.2506 c 0,0 -7.99592,0.8126 -8.99542,0.8126 -0.99949,0 -36.48141,-4.0632 -36.48141,-4.0632 l -19.49008,-0.8126 -14.24275,-3.2505 -13.49312,-4.8759 -21.73893,-16.2528 -13.24326,-13.8149 z"
        id="path4499"
        inkscape:connector-curvature="0" />
     <path
@@ -331,7 +331,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.6785462,0,0,1.6785462,-177.16773,2622.9119)"><flowRegion
+       transform="matrix(2.4362982,0,0,2.4362982,-472.99969,2404.9153)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
