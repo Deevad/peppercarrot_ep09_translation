@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 09: The Remedy
 
 
@@ -60,7 +60,7 @@ License
 
 * Polish: Sölve Svartskogen
 
-* Portuguese: Alexandre Esteves Almeida
+* Portuguese: Alexandre E. Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 

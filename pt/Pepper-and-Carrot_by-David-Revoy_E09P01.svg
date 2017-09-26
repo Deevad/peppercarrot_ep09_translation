@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E09P01.svg">
@@ -220,15 +220,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4816207"
-     inkscape:cx="1229.2012"
+     inkscape:cx="972.77534"
      inkscape:cy="1851.1529"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -237,13 +237,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/almeida/Dropbox/Apps/GitHub/peppercarrot_ep09_translation/pt/../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
+       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep09_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E09P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -256,7 +256,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="translate(-60.112124,-145.53741)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -265,7 +265,7 @@
            x="180.92751"
            y="248.28046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:48px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         style="font-size:48px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara3437">O dia após a festa*...</flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 211.56266,2065.4425 c -7.93443,-109.4722 55.23772,-126.5629 96.97116,-148.7347 45.38794,-24.1133 410.60292,-10.9241 470.69628,30.5335 59.39627,40.9767 97.17004,179.634 -30.78632,227.5695 -127.95645,47.9353 -367.37492,31.7523 -403.03388,21.1379 -33.69999,-10.0313 -121.75914,-44.3648 -133.84724,-130.5062 z"
@@ -287,7 +287,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(104.57548,1687.0162)"><flowRegion
          id="flowRegion2989-5-4-5-4"><rect
            id="rect2991-7-9-6-6"
@@ -296,13 +296,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
+         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3030-8-0">Hã? </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
+         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3447">O aviso das montanhas, da floresta e das nuvens?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(281.01038,1935.0835)"><flowRegion
          id="flowRegion2989-5-4-5-4-4"><rect
            id="rect2991-7-9-6-6-7"
@@ -311,8 +311,8 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4455-8">Mas por quê?</flowPara></flowRoot>    <path
+         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         id="flowPara4455-8">Mas por que?</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 281.17336,3149.5017 5.68848,-1.219 -4.0632,-5.2821 23.56655,-71.106 7.31376,1.219 -0.40632,-5.2822 9.75168,1.6253 4.06319,3.6569 7.72008,-6.9075 18.2844,-1.2189 38.60039,-24.3792 8.93903,-11.377 23.16024,-5.2821 7.31375,0.4063 -0.81264,-6.0948 14.62752,0.8126 25.19183,5.2822 54.44687,10.158 16.25279,1.6253 21.53496,0.4063 -2.0316,5.2821 21.12863,0.8127 0,-6.0948 21.94127,11.3769 9.75168,6.0948 47.13311,19.5034 -2.43792,3.2505 6.0948,12.1896 -6.0948,8.5328 7.31375,21.1286 2.43792,27.6297 -1.62528,10.158 -2.84423,-6.0948 -10.158,7.7201 -5.28216,16.2528 -8.1264,2.8443 -2.43792,-3.2506 -23.16023,12.5959 -40.22567,12.5959 -12.59591,2.0316 1.62527,-2.0316 -14.22119,3.6569 -30.88031,3.2506 -18.69072,-3.2506 c 0,0 -13.00223,0.8126 -14.62751,0.8126 -1.62528,0 -59.3227,-4.0632 -59.3227,-4.0632 l -31.69296,-0.8126 -23.16023,-3.2505 -21.94127,-4.8759 -35.34983,-16.2528 -21.53496,-13.8149 z"
        id="path4499"
@@ -326,7 +326,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(58.175773,2824.3887)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
@@ -335,18 +335,20 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:48px;line-height:1.25;text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara3030-8-7">Oh não!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3425"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(0,8)"><flowRegion
-         id="flowRegion3427"><rect
+         id="flowRegion3427"
+         style="font-family:sans-serif"><rect
            id="rect3429"
            width="1190.2501"
            height="60.374878"
            x="1184.4999"
-           y="1798.1251" /></flowRegion><flowPara
+           y="1798.1251"
+           style="font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara3431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end;fill:#7f7f7f;fill-opacity:1">*Ver Episódio 8 : A Festa de aniversário da Pepper </flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end;fill:#7f7f7f;fill-opacity:1">*Ver Episódio 8: A Festa de aniversário da Pepper </flowPara></flowRoot>  </g>
 </svg>
